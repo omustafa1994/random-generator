@@ -6,6 +6,9 @@ This is a set of unit tests which test the validity of the random generator. Num
 ### Languages used
 * Ruby
 
+### Gem file
+* a
+
 ### How to download
 1. Clone the Git repo
 2. Open the files and install and run rspec
