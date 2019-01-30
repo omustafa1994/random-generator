@@ -12,7 +12,7 @@ This is a set of unit tests which test the validity of the random generator. Num
 3. In addition, HTTParty gem needs to be installed
 4. You will now be able to run the tests using rspec!
 
-```
+``` s
 gem 'httparty'
 gem 'json'
 gem 'rspec'
