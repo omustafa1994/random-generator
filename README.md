@@ -1,7 +1,7 @@
 # random-postcode-generator
 
 ### Description
-This is a set of unit tests which test the validity of the random postcode generator. Five different unit tests have been set-up and pass using the rspec gem. The use of HTTParty is required to fetch the postcodes API, 
+This is a set of unit tests which test the validity of the random postcode generator. Numerous unit tests have been set-up and pass using the rspec gem. The use of HTTParty is required to fetch the postcodes API, 
 
 ### Languages used
 * Ruby
