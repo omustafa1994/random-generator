@@ -1,30 +1,24 @@
 # random-postcode-generator
 
 ### Description
-This game is a remake of flappy bird using javascript and canvas. It consists of two pages, the first a main menu which when prompt will start up the main game. Here the user must press the space-bar and navigate through the pipes whilst avoiding them at all cost in order to achieve a high score. Can you reach a score of 10?
+This is a set of unit tests which test the validity of the random postcode generator. Five different unit tests have been set-up and pass using the rspec gem. The use of HTTParty is required to fetch the postcodes API, 
 
 ### Languages used
-* Javascript
-* HTML
+* Ruby
 
 ### How to download
 1. Clone the Git repo
-2. Open the files and run index.html file
-3. You will now be able to play the game!
-
-#### You can play the game here: https://omustafa1994.github.io/sparta-project-1/pages/main.html
-
-### Challenges 
-1. Difficulty to center the image and canvas with overlap
-2. Issues with animation of bird on second page
-3. Issues with increased difficulty if more than two difficulties
-
-### Learning points
-1. I learned ways to get animation to work using the date.now method
-2. Note to self: next time animate using a sprite sheet 
+2. Open the files and install and run rspec
+3. In addition, HTTParty gem needs to be installed
+4. You will now be able to run the tests using rspec!
 
 ```
 gem 'httparty'
-gem 'json'
 gem 'rspec'
 ```
+
+### Challenges 
+1. The only challenge so far was thinking of numerous tests to run against the array
+
+### Learning points
+1. I learned ways to get animation to work using the date.now method
