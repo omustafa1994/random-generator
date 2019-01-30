@@ -13,8 +13,9 @@ This is a set of unit tests which test the validity of the random postcode gener
 4. You will now be able to run the tests using rspec!
 
 ```
-gem 'httparty'
-gem 'rspec'
+require 'httparty'
+require 'json'
+require 'rspec'
 ```
 
 ### Challenges 
