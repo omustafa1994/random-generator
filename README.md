@@ -18,7 +18,7 @@ gem 'rspec'
 ```
 
 ### How to use
-To use the tests for yourself you cyan move the lib file in your own project. This will allow you to use a random postcode generator within your own project. You will then need to instasiate the generator using ```.new``` and also require relative of the generator folder using ```require_relative './lib/RandomPostcodes'```
+To use the tests for yourself you cyan move the lib file in your own project. This will allow you to use a random postcode generator within your own project. You will then need to instasiate the generator using ```.new``` and also require relative of the generator folder using ```require_relative './lib/FileName'```
 
 ### Challenges 
 1. The only challenge was thinking of which tests to run against randomly generated outputs
