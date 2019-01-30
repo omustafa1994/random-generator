@@ -18,7 +18,7 @@ gem 'rspec'
 ```
 
 ### Challenges 
-1. The only challenge so far was thinking of numerous tests to run against the array
+1. The only challenge was thinking of tests to run against randomly generated outputs
 
 ### Learning points
-1. I learned ways to get animation to work using the date.now method
+1. I learned ways generate random information fetched from an API
