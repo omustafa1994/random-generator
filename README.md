@@ -16,9 +16,9 @@ This is a set of unit tests which test the validity of the random generator. Num
 4. You will now be able to run the tests using rspec!
 
 ```
-require 'httparty'
-require 'json'
-require 'rspec'
+gem 'httparty'
+gem 'json'
+gem 'rspec'
 ```
 
 ### Challenges 
