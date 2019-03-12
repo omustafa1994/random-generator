@@ -1,4 +1,4 @@
-# random-generator
+# Random Generator
 
 ### Description
 This is a set of unit tests which test the validity of the random generator. Numerous unit tests have been set-up using the rspec gem and spec helper. The use of HTTParty is required to fetch the API, allowing it to be tested. For testing purposes, a random postcode API is used to generate various postcodes in the form of an array with corresponding unit tests for each testable data output.
